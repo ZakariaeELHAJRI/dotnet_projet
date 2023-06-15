@@ -1,0 +1,44 @@
+﻿@model TP1.Models.Offre
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>Offre</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4 mx-auto">
+        <form asp-action="Edit" style="border-radius: 10px; padding: 20px; margin: 20px 0; border: 1px solid #ccc;">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Id" />
+            <div class="form-group">
+                <label asp-for="remise" class="control-label"></label>
+                <input asp-for="remise" class="form-control" />
+                <span asp-validation-for="remise" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="date_validation" class="control-label"></label>
+                <input asp-for="date_validation" class="form-control" />
+                <span asp-validation-for="date_validation" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="tablePlancherId" class="control-label"></label>
+                <select asp-for="tablePlancherId" class="form-control" asp-items="ViewBag.tablePlancherId"></select>
+                <span asp-validation-for="tablePlancherId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

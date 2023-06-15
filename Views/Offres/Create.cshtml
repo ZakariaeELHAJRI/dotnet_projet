@@ -1,0 +1,69 @@
+﻿@using TP1.Models;
+@model TP1.Models.Offre
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>Offre</h4>
+<hr />
+@if (string.IsNullOrEmpty(ViewData["ErrorMessage"] as string))
+{
+    <p class="text-danger">@ViewData["ErrorMessage"]</p>
+}
+@if (ViewData["ErrorMessage"] != null)
+{
+    <div class="alert alert-danger">@ViewData["ErrorMessage"]</div>
+}
+
+<div class="row">
+    <div class="col-md-4 mx-auto">
+        <form asp-action="Create" style="border-radius: 10px; padding: 20px; margin: 20px 0; border: 1px solid #ccc;">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="remise" class="control-label"></label>
+                <input asp-for="remise" class="form-control" />
+                <span asp-validation-for="remise" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="date_validation" class="control-label"></label>
+                <input asp-for="date_validation" class="form-control" type="date" />
+                <span asp-validation-for="date_validation" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="tablePlancherId" class="control-label"></label>
+                <select asp-for="tablePlancherId" class ="form-control" asp-items="ViewBag.tablePlancherId"></select>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+       
+
+        @if (ViewBag.StatusMessage != null)
+        {
+            <p>@ViewBag.StatusMessage</p>
+        }
+
+        @if (Model != null)
+        {
+            <p class="text-danger">@ViewData["ErrorMessage"]</p>
+            <p>You submitted the following:</p>
+            <ul>
+                <li>Remise: @Model.remise</li>
+                <li>Date validation: @Model.date_validation</li>
+                <li>Table Plancher ID: @Model.tablePlancherId</li>
+            </ul>
+        }
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

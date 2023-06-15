@@ -1,0 +1,393 @@
+﻿@model newproject.Models.Demandes
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Boutique | Ecommerce bootstrap template</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="robots" content="all,follow">
+    <!-- gLightbox gallery-->
+    <link rel="stylesheet" href="vendor/glightbox/css/glightbox.min.css">
+    <!-- Range slider-->
+    <link rel="stylesheet" href="vendor/nouislider/nouislider.min.css">
+    <!-- Choices CSS-->
+    <link rel="stylesheet" href="vendor/choices.js/public/assets/styles/choices.min.css">
+    <!-- Swiper slider-->
+    <link rel="stylesheet" href="vendor/swiper/swiper-bundle.min.css">
+    <!-- Google fonts-->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Libre+Franklin:wght@300;400;700&amp;display=swap">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Martel+Sans:wght@300;400;800&amp;display=swap">
+    <!-- theme stylesheet-->
+    <link rel="stylesheet" href="css/style.default.css" id="theme-stylesheet">
+    <!-- Custom stylesheet - for your changes-->
+    <link rel="stylesheet" href="css/custom.css">
+    <!-- Favicon-->
+    <link rel="shortcut icon" href="img/favicon.png">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+   
+</head>
+<body>
+    <div class="page-holder">
+     
+        <!--  Modal -->
+        <div class="modal fade" id="productView" tabindex="-1">
+            <div class="modal-dialog modal-lg modal-dialog-centered">
+                <div class="modal-content overflow-hidden border-0">
+                    <button class="btn-close p-4 position-absolute top-0 end-0 z-index-20 shadow-0" type="button" data-bs-dismiss="modal" aria-label="Close"></button>
+                    <div class="modal-body p-0">
+                        <div class="row align-items-stretch">
+                            <div class="col-lg-6 p-lg-0"><a class="glightbox product-view d-block h-100 bg-cover bg-center" style="background: url(img/product-5.jpg)" href="img/product-5.jpg" data-gallery="gallery1" data-glightbox="Red digital smartwatch"></a><a class="glightbox d-none" href="img/product-5-alt-1.jpg" data-gallery="gallery1" data-glightbox="Red digital smartwatch"></a><a class="glightbox d-none" href="img/product-5-alt-2.jpg" data-gallery="gallery1" data-glightbox="Red digital smartwatch"></a></div>
+                            <div class="col-lg-6">
+                                <div class="p-4 my-md-4">
+                                    <ul class="list-inline mb-2">
+                                        <li class="list-inline-item m-0"><i class="fas fa-star small text-warning"></i></li>
+                                        <li class="list-inline-item m-0 1"><i class="fas fa-star small text-warning"></i></li>
+                                        <li class="list-inline-item m-0 2"><i class="fas fa-star small text-warning"></i></li>
+                                        <li class="list-inline-item m-0 3"><i class="fas fa-star small text-warning"></i></li>
+                                        <li class="list-inline-item m-0 4"><i class="fas fa-star small text-warning"></i></li>
+                                    </ul>
+                                    <h2 class="h4">Red digital smartwatch</h2>
+                                    <p class="text-muted">$250</p>
+                                    <p class="text-sm mb-4">Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut ullamcorper leo, eget euismod orci. Cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus. Vestibulum ultricies aliquam convallis.</p>
+                                    <div class="row align-items-stretch mb-4 gx-0">
+                                        <div class="col-sm-7">
+                                            <div class="border d-flex align-items-center justify-content-between py-1 px-3">
+                                                <span class="small text-uppercase text-gray mr-4 no-select">Quantity</span>
+                                                <div class="quantity">
+                                                    <button class="dec-btn p-0"><i class="fas fa-caret-left"></i></button>
+                                                    <input class="form-control border-0 shadow-0 p-0" type="text" value="1">
+                                                    <button class="inc-btn p-0"><i class="fas fa-caret-right"></i></button>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-sm-5"><a class="btn btn-dark btn-sm w-100 h-100 d-flex align-items-center justify-content-center px-0" href="cart.html">Add to cart</a></div>
+                                    </div><a class="btn btn-link text-dark text-decoration-none p-0" href="#!"><i class="far fa-heart me-2"></i>Add to wish list</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <!-- HERO SECTION-->
+            <section class="py-5 bg-light">
+                <div class="container">
+                    <div class="row px-4 px-lg-5 py-lg-4 align-items-center">
+                        <div class="col-lg-6">
+                            <h1 class="h2 text-uppercase mb-0">Cart</h1>
+                        </div>
+                        <div class="col-lg-6 text-lg-end">
+                            <nav aria-label="breadcrumb">
+                                <ol class="breadcrumb justify-content-lg-end mb-0 px-0 bg-light">
+                                    <li class="breadcrumb-item"><a class="text-dark" href="index.html">Home</a></li>
+                                    <li class="breadcrumb-item active" aria-current="page">Cart</li>
+                                </ol>
+                            </nav>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <section class="py-5">
+                <h2 class="h5 text-uppercase mb-4">Shopping cart</h2>
+                <div class="row">
+                    <div class="col-lg-8 mb-4 mb-lg-0">
+                      
+                              <!-- CART TABLE-->
+                        <div class="table-responsive mb-4">
+                            <table class="table text-nowrap">
+                                <thead class="bg-light">
+                                    <tr>
+                                        <th class="border-0 p-3" scope="col"> <strong class="text-sm text-uppercase">Product</strong></th>
+                                        <th class="border-0 p-3" scope="col"> <strong class="text-sm text-uppercase">Price</strong></th>
+                                        <th class="border-0 p-3" scope="col"> <strong class="text-sm text-uppercase">langeur</strong></th>
+                                        <th class="border-0 p-3" scope="col"> <strong class="text-sm text-uppercase">largeur</strong></th>
+                                        <th class="border-0 p-3" scope="col"> <strong class="text-sm text-uppercase">Total</strong></th>
+                                        <th class="border-0 p-3" scope="col"> <strong class="text-sm text-uppercase"></strong></th>
+                                    </tr>
+                                </thead>
+                                <tbody class="border-0">
+                                        @foreach (var demande in Model.demandeslist)
+        {
+                                    <tr>
+                                        <th class="ps-0 py-3 border-light" scope="row">
+                                            <div class="d-flex align-items-center">
+                                                    <a class="reset-anchor d-block animsition-link" href="detail.html"><img src="@Url.Content("~/img/" + demande.tablePlancher.plancher_image)" alt="..." width="70" /></a>
+                                                <div class="ms-3"><strong class="h6"><a class="reset-anchor animsition-link" href="detail.html"></a>@demande.tablePlancher.type</strong></div>
+                                            </div>
+                                        </th>
+                                            <td class="p-3 align-middle border-light" id="cout">
+                                                <p class="mb-0 small">$ @demande.tablePlancher.cout_matier</p>
+                                            </td>
+                                            <td class="p-3 align-middle border-light" id="langeur">
+                                                <p class="mb-0 small"> @demande.langeur</p>
+                                            </td>
+                                        <td class="p-3 align-middle border-light" id="largeur">
+                                            <p class="mb-0 small"> @demande.largeur</p>
+                                        </td>
+                                      
+                                        <td class="p-3 align-middle border-light" id="total">
+                                                <p class="mb-0 small">$ @(demande.tablePlancher.cout_matier * demande.langeur * demande.largeur)</p>
+                                        </td>
+                                            <td class="p-3 align-middle border-light"><a class="reset-anchor" asp-controller="Demandes" asp-action="Delete" asp-route-id="@demande.Id_demande"><i class="fas fa-trash-alt small text-muted"></i></a></td>
+                                            <td class="p-3 align-middle border-light">
+                                                <a class="reset-anchor" asp-controller="Factures" asp-action="GenerateFacturePdf" asp-route-demandeId="@demande.Id_demande">
+                                                    <i class="fas fa-print small text-muted" ></i>
+                                        </a>
+
+                                        </td>
+                                    </tr>
+                                   
+                                    }
+                                </tbody>
+                               
+                            </table>
+                        </div>
+
+                        <div id="pagination"></div> <!-- Add the pagination div here -->
+                        <!-- CART NAV-->
+                        <div class="bg-light px-4 py-3">
+                            <div class="row align-items-center text-center">
+                                <div class="col-md-6 mb-3 mb-md-0 text-md-start"><a class="btn btn-link p-0 text-dark btn-sm" href="shop.html"><i class="fas fa-long-arrow-alt-left me-2"> </i>Continue shopping</a></div>
+                                <div class="col-md-6 text-md-end"><a class="btn btn-outline-dark btn-sm" id="go_facture" asp-controller="Factures" asp-action="GenerateFacturePdfList">Procceed to checkout<i class="fas fa-long-arrow-alt-right ms-2"></i></a></div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- ORDER TOTAL-->
+                    
+                    <div class="col-lg-4">
+                        <div class="card border-0 rounded-0 p-lg-4 bg-light">
+                            <div class="card-body">
+                                <h5 class="text-uppercase mb-4">Cart total</h5>
+                                <ul class="list-unstyled mb-0">
+                                    <li class="d-flex align-items-center justify-content-between">
+                                        <strong id="subtotal" class="text-uppercase small font-weight-bold">Subtotal</strong>
+                                        <span id="subtotal-amount" class="text-muted small">$0</span>
+                                    </li>
+                                    <li class="border-bottom my-2"></li>
+                                    <li class="d-flex align-items-center justify-content-between mb-4">
+                                        <strong id="total" class="text-uppercase small font-weight-bold">Total</strong>
+                                        <span id="total-amount">$0</span>
+                                    </li>
+                                    <li>
+                                        <form asp-action="Create" method="post">
+                                            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                                            <div class="form-group">
+                                                <label asp-for="demande.tablePlancherId" class="control-label">Type Couvre Plancher</label>
+                                                <select asp-for="demande.tablePlancherId" class="form-control" asp-items="ViewBag.tablePlancherId"></select>
+                                            </div>
+                                    <li class="border-bottom my-2"></li>
+                                    <div class="form-group">
+                                        <input id="langeur" asp-for="demande.langeur" class="form-control" placeholder="Langeur" onchange="updateCartTotal()" />
+                                        <span asp-validation-for="demande.langeur" class="text-danger"></span>
+                                    </div>
+                                    <li class="border-bottom my-2"></li>
+                                    <div class="form-group">
+                                        <input id="largeur" asp-for="demande.largeur" class="form-control" placeholder="Largeur" onchange="updateCartTotal()" />
+                                        <span asp-validation-for="demande.largeur" class="text-danger"></span>
+                                    </div>
+                                    <li class="border-bottom my-2"></li>
+                                    <div class="form-group">
+                                        <input asp-for="demande.nom_client" class="form-control" placeholder="Votre Nom" />
+                                        <span asp-validation-for="demande.nom_client" class="text-danger"></span>
+                                    </div>
+                                    <li class="border-bottom my-2"></li>
+                                    <div class="form-group">
+                                        <input asp-for="demande.cinClient" class="form-control" placeholder=" CIN " />
+                                        <span asp-validation-for="demande.cinClient" class="text-danger"></span>
+                                    </div>
+                                    <li class="border-bottom my-2"></li>
+                                    <div class="form-group">
+                                        <input asp-for="demande.address_client" class="form-control" placeholder="Votre Address" />
+                                        <span asp-validation-for="demande.address_client" class="text-danger"></span>
+                                    </div>
+                                    <div class="form-group">
+                                        <input type="submit" value="Create" class="btn btn-primary" />
+                                    </div>
+                                    </form>
+                                    </li>
+                                </ul>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
+        <footer class="bg-dark text-white">
+            <div class="container py-4">
+                <div class="row py-5">
+                    <div class="col-md-4 mb-3 mb-md-0">
+                        <h6 class="text-uppercase mb-3">Customer services</h6>
+                        <ul class="list-unstyled mb-0">
+                            <li><a class="footer-link" href="#!">Help &amp; Contact Us</a></li>
+                            <li><a class="footer-link" href="#!">Returns &amp; Refunds</a></li>
+                            <li><a class="footer-link" href="#!">Online Stores</a></li>
+                            <li><a class="footer-link" href="#!">Terms &amp; Conditions</a></li>
+                        </ul>
+                    </div>
+                    <div class="col-md-4 mb-3 mb-md-0">
+                        <h6 class="text-uppercase mb-3">Company</h6>
+                        <ul class="list-unstyled mb-0">
+                            <li><a class="footer-link" href="#!">What We Do</a></li>
+                            <li><a class="footer-link" href="#!">Available Services</a></li>
+                            <li><a class="footer-link" href="#!">Latest Posts</a></li>
+                            <li><a class="footer-link" href="#!">FAQs</a></li>
+                        </ul>
+                    </div>
+                    <div class="col-md-4">
+                        <h6 class="text-uppercase mb-3">Social media</h6>
+                        <ul class="list-unstyled mb-0">
+                            <li><a class="footer-link" href="#!">Twitter</a></li>
+                            <li><a class="footer-link" href="#!">Instagram</a></li>
+                            <li><a class="footer-link" href="#!">Tumblr</a></li>
+                            <li><a class="footer-link" href="#!">Pinterest</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="border-top pt-4" style="border-color: #1d1d1d !important">
+                    <div class="row">
+                        <div class="col-md-6 text-center text-md-start">
+                            <p class="small text-muted mb-0">&copy; 2021 All rights reserved.</p>
+                        </div>
+                        <div class="col-md-6 text-center text-md-end">
+                            <p class="small text-muted mb-0">Template designed by <a class="text-white reset-anchor" href="https://bootstrapious.com/p/boutique-bootstrap-e-commerce-template">Bootstrapious</a></p>
+                            <!-- If you want to remove the backlink, please purchase the Attribution-Free License. See details in readme.txt or license.txt. Thanks!-->
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </footer>
+        <!-- JavaScript files-->
+        <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+        <script src="vendor/glightbox/js/glightbox.min.js"></script>
+        <script src="vendor/nouislider/nouislider.min.js"></script>
+        <script src="vendor/swiper/swiper-bundle.min.js"></script>
+        <script src="vendor/choices.js/public/assets/scripts/choices.min.js"></script>
+        <script src="js/front.js"></script>
+        @*<script>
+            $(document).ready(function () {
+                // Get the Langeur and Largeur inputs
+                var langeurInput = $('#langeur');
+                var largeurInput = $('#largeur');
+
+                // Calculate the subtotal and total amounts
+                function calculateAmounts() {
+                    // Get the Langeur and Largeur values
+                    var langeurValue = parseFloat(langeurInput.val()) || 0;
+                    var largeurValue = parseFloat(largeurInput.val()) || 0;
+
+                    // Calculate the subtotal amount
+                    var subtotalAmount = langeurValue * largeurValue;
+                    $('#subtotal-amount').text('$' + subtotalAmount.toFixed(2));
+
+                    // Calculate the total amount
+                    var totalAmount = subtotalAmount;
+                    $('#total-amount').text('$' + totalAmount.toFixed(2));
+                }
+
+                // Call the calculateAmounts function when the Langeur or Largeur inputs change
+                langeurInput.on('input', calculateAmounts);
+                largeurInput.on('input', calculateAmounts);
+
+                // Calculate the amounts initially
+                calculateAmounts();
+            });
+        </script>*@
+
+
+
+
+        <script>
+           
+            function injectSvgSprite(path) {
+
+                var ajax = new XMLHttpRequest();
+                ajax.open("GET", path, true);
+                ajax.send();
+                ajax.onload = function (e) {
+                    var div = document.createElement("div");
+                    div.className = 'd-none';
+                    div.innerHTML = ajax.responseText;
+                    document.body.insertBefore(div, document.body.childNodes[0]);
+                }
+            }
+            // this is set to BootstrapTemple website as you cannot
+            // inject local SVG sprite (using only 'icons/orion-svg-sprite.svg' path)
+            // while using file:// protocol
+            // pls don't forget to change to your domain :)
+            injectSvgSprite('https://bootstraptemple.com/files/icons/orion-svg-sprite.svg');
+
+        </script>
+        <script>
+            // Wait for the document to load
+            document.addEventListener('DOMContentLoaded', function () {
+                // Get all rows in the table
+                var rows = document.querySelectorAll('table tbody tr');
+
+                // Iterate over each row
+                rows.forEach(function (row) {
+                    // Get the values from the row
+                    var cout = row.querySelector('#cout p').innerText;
+                    var langeur = row.querySelector('#langeur p').innerText;
+                    var largeur = row.querySelector('#largeur p').innerText;
+
+                    // Convert the values to numbers
+                    var coutNumber = parseFloat(cout.replace('$ ', ''));
+                    var langeurNumber = parseFloat(langeur);
+                    var largeurNumber = parseFloat(largeur);
+
+                    // Calculate the total
+                    var total = coutNumber * langeurNumber * largeurNumber;
+
+                    // Set the total in the row
+                    row.querySelector('#total p').innerText = '$ ' + total.toFixed(2);
+                });
+            });
+        </script>
+        <script>
+            var currentPage = 1;
+            var rowsPerPage = 4;
+            var tableRows = document.querySelectorAll("tbody tr");
+            var totalPages = Math.ceil(tableRows.length / rowsPerPage);
+            var pagination = document.getElementById("pagination");
+
+            function showRows(page) {
+                var startIndex = (page - 1) * rowsPerPage;
+                var endIndex = startIndex + rowsPerPage;
+                for (var i = 0; i < tableRows.length; i++) {
+                    if (i >= startIndex && i < endIndex) {
+                        tableRows[i].style.display = "table-row";
+                    } else {
+                        tableRows[i].style.display = "none";
+                    }
+                }
+            }
+
+            function showPagination() {
+                var paginationHTML = "";
+                for (var i = 1; i <= totalPages; i++) {
+                    paginationHTML += '<a href="#" onclick="changePage(' + i + ')" class="pagination-link">' + i + '</a>';
+                }
+                pagination.innerHTML = paginationHTML;
+            }
+
+
+            function changePage(page) {
+                currentPage = page;
+                showRows(currentPage);
+            }
+
+            showRows(currentPage);
+            showPagination();
+        </script>
+
+
+        <!-- FontAwesome CSS - loading as last, so it doesn't block rendering-->
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.1/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+    </div>
+</body>
+</html>

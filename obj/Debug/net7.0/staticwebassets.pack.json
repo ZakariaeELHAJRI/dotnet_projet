@@ -1,0 +1,1233 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\dotnet_core\\newproject\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\newproject.bundle.scp.css",
+      "PackagePath": "staticwebassets\\newproject.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\css\\custom.css",
+      "PackagePath": "staticwebassets\\css\\custom.css"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\css\\style.blue.css",
+      "PackagePath": "staticwebassets\\css\\style.blue.css"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\css\\style.blue.min.css",
+      "PackagePath": "staticwebassets\\css\\style.blue.min.css"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\css\\style.blue.min.css.map",
+      "PackagePath": "staticwebassets\\css\\style.blue.min.css.map"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\css\\style.default.css",
+      "PackagePath": "staticwebassets\\css\\style.default.css"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\css\\style.default.min.css",
+      "PackagePath": "staticwebassets\\css\\style.default.min.css"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\css\\style.default.min.css.map",
+      "PackagePath": "staticwebassets\\css\\style.default.min.css.map"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\css\\style.gold.css",
+      "PackagePath": "staticwebassets\\css\\style.gold.css"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\css\\style.gold.min.css",
+      "PackagePath": "staticwebassets\\css\\style.gold.min.css"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\css\\style.gold.min.css.map",
+      "PackagePath": "staticwebassets\\css\\style.gold.min.css.map"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\css\\style.green.css",
+      "PackagePath": "staticwebassets\\css\\style.green.css"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\css\\style.green.min.css",
+      "PackagePath": "staticwebassets\\css\\style.green.min.css"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\css\\style.green.min.css.map",
+      "PackagePath": "staticwebassets\\css\\style.green.min.css.map"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\css\\style.pink.css",
+      "PackagePath": "staticwebassets\\css\\style.pink.css"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\css\\style.pink.min.css",
+      "PackagePath": "staticwebassets\\css\\style.pink.min.css"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\css\\style.pink.min.css.map",
+      "PackagePath": "staticwebassets\\css\\style.pink.min.css.map"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\css\\style.red.css",
+      "PackagePath": "staticwebassets\\css\\style.red.css"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\css\\style.red.min.css",
+      "PackagePath": "staticwebassets\\css\\style.red.min.css"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\css\\style.red.min.css.map",
+      "PackagePath": "staticwebassets\\css\\style.red.min.css.map"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\css\\style.sea.css",
+      "PackagePath": "staticwebassets\\css\\style.sea.css"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\css\\style.sea.min.css",
+      "PackagePath": "staticwebassets\\css\\style.sea.min.css"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\css\\style.sea.min.css.map",
+      "PackagePath": "staticwebassets\\css\\style.sea.min.css.map"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\css\\style.violet.css",
+      "PackagePath": "staticwebassets\\css\\style.violet.css"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\css\\style.violet.min.css",
+      "PackagePath": "staticwebassets\\css\\style.violet.min.css"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\css\\style.violet.min.css.map",
+      "PackagePath": "staticwebassets\\css\\style.violet.min.css.map"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\icons\\demo.html",
+      "PackagePath": "staticwebassets\\icons\\demo.html"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\icons\\orion-svg-sprite.svg",
+      "PackagePath": "staticwebassets\\icons\\orion-svg-sprite.svg"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\icons\\styles.css",
+      "PackagePath": "staticwebassets\\icons\\styles.css"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\img\\003_functionality_aspnetcore_auth.zip",
+      "PackagePath": "staticwebassets\\img\\003_functionality_aspnetcore_auth.zip"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\img\\cat-img-1.jpg",
+      "PackagePath": "staticwebassets\\img\\cat-img-1.jpg"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\img\\cat-img-2.jpg",
+      "PackagePath": "staticwebassets\\img\\cat-img-2.jpg"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\img\\cat-img-3.jpg",
+      "PackagePath": "staticwebassets\\img\\cat-img-3.jpg"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\img\\cat-img-4.jpg",
+      "PackagePath": "staticwebassets\\img\\cat-img-4.jpg"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\img\\category-1.jpg",
+      "PackagePath": "staticwebassets\\img\\category-1.jpg"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\img\\category-2.jpg",
+      "PackagePath": "staticwebassets\\img\\category-2.jpg"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\img\\customer-1.png",
+      "PackagePath": "staticwebassets\\img\\customer-1.png"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\img\\customer-2.png",
+      "PackagePath": "staticwebassets\\img\\customer-2.png"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\img\\favicon.png"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\img\\hero-banner.jpg",
+      "PackagePath": "staticwebassets\\img\\hero-banner.jpg"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\img\\hero-shop.jpg",
+      "PackagePath": "staticwebassets\\img\\hero-shop.jpg"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\img\\home.jpg",
+      "PackagePath": "staticwebassets\\img\\home.jpg"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\img\\md_MAGY.jpg",
+      "PackagePath": "staticwebassets\\img\\md_MAGY.jpg"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\img\\md_albany.jpg",
+      "PackagePath": "staticwebassets\\img\\md_albany.jpg"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\img\\md_belrose.jpg",
+      "PackagePath": "staticwebassets\\img\\md_belrose.jpg"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\img\\md_favona.jpg",
+      "PackagePath": "staticwebassets\\img\\md_favona.jpg"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\img\\md_gladstone.jpg",
+      "PackagePath": "staticwebassets\\img\\md_gladstone.jpg"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\img\\md_harlem.jpg",
+      "PackagePath": "staticwebassets\\img\\md_harlem.jpg"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\img\\md_leeman.jpg",
+      "PackagePath": "staticwebassets\\img\\md_leeman.jpg"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\img\\md_newcastle.jpg",
+      "PackagePath": "staticwebassets\\img\\md_newcastle.jpg"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\img\\md_peria.jpg",
+      "PackagePath": "staticwebassets\\img\\md_peria.jpg"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\img\\md_plancher.jpg",
+      "PackagePath": "staticwebassets\\img\\md_plancher.jpg"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\img\\md_russell.jpg",
+      "PackagePath": "staticwebassets\\img\\md_russell.jpg"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\img\\md_valdora.jpg",
+      "PackagePath": "staticwebassets\\img\\md_valdora.jpg"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\img\\md_vitrine.jpg",
+      "PackagePath": "staticwebassets\\img\\md_vitrine.jpg"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\img\\mt_albany.jpg",
+      "PackagePath": "staticwebassets\\img\\mt_albany.jpg"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\img\\mt_belrose.jpg",
+      "PackagePath": "staticwebassets\\img\\mt_belrose.jpg"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\img\\mt_favona.jpg",
+      "PackagePath": "staticwebassets\\img\\mt_favona.jpg"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\img\\mt_gladstone.jpg",
+      "PackagePath": "staticwebassets\\img\\mt_gladstone.jpg"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\img\\mt_leeman.jpg",
+      "PackagePath": "staticwebassets\\img\\mt_leeman.jpg"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\img\\mt_newcastle.jpg",
+      "PackagePath": "staticwebassets\\img\\mt_newcastle.jpg"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\img\\mt_peria.jpg",
+      "PackagePath": "staticwebassets\\img\\mt_peria.jpg"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\img\\mt_russell.jpg",
+      "PackagePath": "staticwebassets\\img\\mt_russell.jpg"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\img\\mt_valdora.jpg",
+      "PackagePath": "staticwebassets\\img\\mt_valdora.jpg"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\img\\product-1.jpg",
+      "PackagePath": "staticwebassets\\img\\product-1.jpg"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\img\\product-10.jpg",
+      "PackagePath": "staticwebassets\\img\\product-10.jpg"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\img\\product-11.jpg",
+      "PackagePath": "staticwebassets\\img\\product-11.jpg"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\img\\product-12.jpg",
+      "PackagePath": "staticwebassets\\img\\product-12.jpg"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\img\\product-2.jpg",
+      "PackagePath": "staticwebassets\\img\\product-2.jpg"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\img\\product-3.jpg",
+      "PackagePath": "staticwebassets\\img\\product-3.jpg"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\img\\product-4.jpg",
+      "PackagePath": "staticwebassets\\img\\product-4.jpg"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\img\\product-5-alt-1.jpg",
+      "PackagePath": "staticwebassets\\img\\product-5-alt-1.jpg"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\img\\product-5-alt-2.jpg",
+      "PackagePath": "staticwebassets\\img\\product-5-alt-2.jpg"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\img\\product-5.jpg",
+      "PackagePath": "staticwebassets\\img\\product-5.jpg"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\img\\product-6.jpg",
+      "PackagePath": "staticwebassets\\img\\product-6.jpg"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\img\\product-7.jpg",
+      "PackagePath": "staticwebassets\\img\\product-7.jpg"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\img\\product-8.jpg",
+      "PackagePath": "staticwebassets\\img\\product-8.jpg"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\img\\product-9.jpg",
+      "PackagePath": "staticwebassets\\img\\product-9.jpg"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\img\\product-detail-1.jpg",
+      "PackagePath": "staticwebassets\\img\\product-detail-1.jpg"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\img\\product-detail-2.jpg",
+      "PackagePath": "staticwebassets\\img\\product-detail-2.jpg"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\img\\product-detail-3.jpg",
+      "PackagePath": "staticwebassets\\img\\product-detail-3.jpg"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\img\\product-detail-4.jpg",
+      "PackagePath": "staticwebassets\\img\\product-detail-4.jpg"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\img\\template-mac.png",
+      "PackagePath": "staticwebassets\\img\\template-mac.png"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\js\\countries.json",
+      "PackagePath": "staticwebassets\\js\\countries.json"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\js\\demo.js",
+      "PackagePath": "staticwebassets\\js\\demo.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\js\\front.js",
+      "PackagePath": "staticwebassets\\js\\front.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\js\\js-cookie.js",
+      "PackagePath": "staticwebassets\\js\\js-cookie.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\pdf\\factures (1).pdf",
+      "PackagePath": "staticwebassets\\pdf\\factures (1).pdf"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\pdf\\factures (2).pdf",
+      "PackagePath": "staticwebassets\\pdf\\factures (2).pdf"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\pdf\\factures.pdf",
+      "PackagePath": "staticwebassets\\pdf\\factures.pdf"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\pdf\\facturesOneProduct (1).pdf",
+      "PackagePath": "staticwebassets\\pdf\\facturesOneProduct (1).pdf"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\pdf\\facturesOneProduct (2).pdf",
+      "PackagePath": "staticwebassets\\pdf\\facturesOneProduct (2).pdf"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\pdf\\facturesOneProduct (3).pdf",
+      "PackagePath": "staticwebassets\\pdf\\facturesOneProduct (3).pdf"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\pdf\\facturesOneProduct.pdf",
+      "PackagePath": "staticwebassets\\pdf\\facturesOneProduct.pdf"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\choices.js\\public\\assets\\scripts\\choices.js",
+      "PackagePath": "staticwebassets\\vendor\\choices.js\\public\\assets\\scripts\\choices.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\choices.js\\public\\assets\\scripts\\choices.min.js",
+      "PackagePath": "staticwebassets\\vendor\\choices.js\\public\\assets\\scripts\\choices.min.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\choices.js\\public\\assets\\styles\\base.css",
+      "PackagePath": "staticwebassets\\vendor\\choices.js\\public\\assets\\styles\\base.css"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\choices.js\\public\\assets\\styles\\base.min.css",
+      "PackagePath": "staticwebassets\\vendor\\choices.js\\public\\assets\\styles\\base.min.css"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\choices.js\\public\\assets\\styles\\choices.css",
+      "PackagePath": "staticwebassets\\vendor\\choices.js\\public\\assets\\styles\\choices.css"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\choices.js\\public\\assets\\styles\\choices.min.css",
+      "PackagePath": "staticwebassets\\vendor\\choices.js\\public\\assets\\styles\\choices.min.css"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\glightbox\\css\\glightbox.css",
+      "PackagePath": "staticwebassets\\vendor\\glightbox\\css\\glightbox.css"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\glightbox\\css\\glightbox.min.css",
+      "PackagePath": "staticwebassets\\vendor\\glightbox\\css\\glightbox.min.css"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\glightbox\\js\\glightbox.js",
+      "PackagePath": "staticwebassets\\vendor\\glightbox\\js\\glightbox.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\glightbox\\js\\glightbox.min.js",
+      "PackagePath": "staticwebassets\\vendor\\glightbox\\js\\glightbox.min.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\nouislider\\nouislider.css",
+      "PackagePath": "staticwebassets\\vendor\\nouislider\\nouislider.css"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\nouislider\\nouislider.js",
+      "PackagePath": "staticwebassets\\vendor\\nouislider\\nouislider.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\nouislider\\nouislider.min.css",
+      "PackagePath": "staticwebassets\\vendor\\nouislider\\nouislider.min.css"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\nouislider\\nouislider.min.js",
+      "PackagePath": "staticwebassets\\vendor\\nouislider\\nouislider.min.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\nouislider\\nouislider.min.mjs",
+      "PackagePath": "staticwebassets\\vendor\\nouislider\\nouislider.min.mjs"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\nouislider\\nouislider.mjs",
+      "PackagePath": "staticwebassets\\vendor\\nouislider\\nouislider.mjs"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\angular\\bundles\\swiper_angular.umd.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\angular\\bundles\\swiper_angular.umd.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\angular\\esm2015\\swiper-angular.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\angular\\esm2015\\swiper-angular.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\angular\\esm2015\\swiper_angular.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\angular\\esm2015\\swiper_angular.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\angular\\fesm2015\\swiper_angular.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\angular\\fesm2015\\swiper_angular.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\core\\breakpoints\\getBreakpoint.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\core\\breakpoints\\getBreakpoint.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\core\\breakpoints\\index.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\core\\breakpoints\\index.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\core\\breakpoints\\setBreakpoint.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\core\\breakpoints\\setBreakpoint.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\core\\check-overflow\\index.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\core\\check-overflow\\index.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\core\\classes\\addClasses.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\core\\classes\\addClasses.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\core\\classes\\index.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\core\\classes\\index.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\core\\classes\\removeClasses.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\core\\classes\\removeClasses.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\core\\core.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\core\\core.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\core\\defaults.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\core\\defaults.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\core\\events-emitter.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\core\\events-emitter.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\core\\events\\index.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\core\\events\\index.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\core\\events\\onClick.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\core\\events\\onClick.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\core\\events\\onResize.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\core\\events\\onResize.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\core\\events\\onScroll.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\core\\events\\onScroll.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\core\\events\\onTouchEnd.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\core\\events\\onTouchEnd.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\core\\events\\onTouchMove.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\core\\events\\onTouchMove.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\core\\events\\onTouchStart.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\core\\events\\onTouchStart.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\core\\grab-cursor\\index.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\core\\grab-cursor\\index.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\core\\grab-cursor\\setGrabCursor.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\core\\grab-cursor\\setGrabCursor.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\core\\grab-cursor\\unsetGrabCursor.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\core\\grab-cursor\\unsetGrabCursor.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\core\\images\\index.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\core\\images\\index.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\core\\images\\loadImage.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\core\\images\\loadImage.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\core\\images\\preloadImages.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\core\\images\\preloadImages.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\core\\loop\\index.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\core\\loop\\index.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\core\\loop\\loopCreate.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\core\\loop\\loopCreate.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\core\\loop\\loopDestroy.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\core\\loop\\loopDestroy.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\core\\loop\\loopFix.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\core\\loop\\loopFix.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\core\\moduleExtendParams.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\core\\moduleExtendParams.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\core\\modules\\observer\\observer.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\core\\modules\\observer\\observer.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\core\\modules\\resize\\resize.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\core\\modules\\resize\\resize.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\core\\slide\\index.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\core\\slide\\index.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\core\\slide\\slideNext.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\core\\slide\\slideNext.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\core\\slide\\slidePrev.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\core\\slide\\slidePrev.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\core\\slide\\slideReset.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\core\\slide\\slideReset.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\core\\slide\\slideTo.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\core\\slide\\slideTo.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\core\\slide\\slideToClickedSlide.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\core\\slide\\slideToClickedSlide.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\core\\slide\\slideToClosest.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\core\\slide\\slideToClosest.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\core\\slide\\slideToLoop.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\core\\slide\\slideToLoop.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\core\\transition\\index.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\core\\transition\\index.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\core\\transition\\setTransition.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\core\\transition\\setTransition.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\core\\transition\\transitionEmit.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\core\\transition\\transitionEmit.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\core\\transition\\transitionEnd.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\core\\transition\\transitionEnd.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\core\\transition\\transitionStart.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\core\\transition\\transitionStart.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\core\\translate\\getTranslate.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\core\\translate\\getTranslate.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\core\\translate\\index.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\core\\translate\\index.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\core\\translate\\maxTranslate.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\core\\translate\\maxTranslate.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\core\\translate\\minTranslate.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\core\\translate\\minTranslate.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\core\\translate\\setTranslate.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\core\\translate\\setTranslate.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\core\\translate\\translateTo.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\core\\translate\\translateTo.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\core\\update\\index.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\core\\update\\index.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\core\\update\\updateActiveIndex.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\core\\update\\updateActiveIndex.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\core\\update\\updateAutoHeight.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\core\\update\\updateAutoHeight.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\core\\update\\updateClickedSlide.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\core\\update\\updateClickedSlide.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\core\\update\\updateProgress.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\core\\update\\updateProgress.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\core\\update\\updateSize.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\core\\update\\updateSize.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\core\\update\\updateSlides.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\core\\update\\updateSlides.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\core\\update\\updateSlidesClasses.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\core\\update\\updateSlidesClasses.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\core\\update\\updateSlidesOffset.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\core\\update\\updateSlidesOffset.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\core\\update\\updateSlidesProgress.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\core\\update\\updateSlidesProgress.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\modules\\a11y\\a11y.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\modules\\a11y\\a11y.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\modules\\a11y\\a11y.min.css",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\modules\\a11y\\a11y.min.css"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\modules\\autoplay\\autoplay.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\modules\\autoplay\\autoplay.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\modules\\autoplay\\autoplay.min.css",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\modules\\autoplay\\autoplay.min.css"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\modules\\controller\\controller.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\modules\\controller\\controller.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\modules\\controller\\controller.min.css",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\modules\\controller\\controller.min.css"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\modules\\effect-cards\\effect-cards.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\modules\\effect-cards\\effect-cards.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\modules\\effect-cards\\effect-cards.min.css",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\modules\\effect-cards\\effect-cards.min.css"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\modules\\effect-coverflow\\effect-coverflow.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\modules\\effect-coverflow\\effect-coverflow.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\modules\\effect-coverflow\\effect-coverflow.min.css",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\modules\\effect-coverflow\\effect-coverflow.min.css"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\modules\\effect-creative\\effect-creative.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\modules\\effect-creative\\effect-creative.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\modules\\effect-creative\\effect-creative.min.css",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\modules\\effect-creative\\effect-creative.min.css"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\modules\\effect-cube\\effect-cube.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\modules\\effect-cube\\effect-cube.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\modules\\effect-cube\\effect-cube.min.css",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\modules\\effect-cube\\effect-cube.min.css"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\modules\\effect-fade\\effect-fade.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\modules\\effect-fade\\effect-fade.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\modules\\effect-fade\\effect-fade.min.css",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\modules\\effect-fade\\effect-fade.min.css"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\modules\\effect-flip\\effect-flip.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\modules\\effect-flip\\effect-flip.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\modules\\effect-flip\\effect-flip.min.css",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\modules\\effect-flip\\effect-flip.min.css"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\modules\\free-mode\\free-mode.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\modules\\free-mode\\free-mode.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\modules\\free-mode\\free-mode.min.css",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\modules\\free-mode\\free-mode.min.css"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\modules\\grid\\grid.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\modules\\grid\\grid.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\modules\\grid\\grid.min.css",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\modules\\grid\\grid.min.css"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\modules\\hash-navigation\\hash-navigation.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\modules\\hash-navigation\\hash-navigation.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\modules\\hash-navigation\\hash-navigation.min.css",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\modules\\hash-navigation\\hash-navigation.min.css"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\modules\\history\\history.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\modules\\history\\history.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\modules\\history\\history.min.css",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\modules\\history\\history.min.css"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\modules\\keyboard\\keyboard.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\modules\\keyboard\\keyboard.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\modules\\keyboard\\keyboard.min.css",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\modules\\keyboard\\keyboard.min.css"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\modules\\lazy\\lazy.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\modules\\lazy\\lazy.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\modules\\lazy\\lazy.min.css",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\modules\\lazy\\lazy.min.css"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\modules\\manipulation\\manipulation.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\modules\\manipulation\\manipulation.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\modules\\manipulation\\manipulation.min.css",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\modules\\manipulation\\manipulation.min.css"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\modules\\manipulation\\methods\\addSlide.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\modules\\manipulation\\methods\\addSlide.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\modules\\manipulation\\methods\\appendSlide.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\modules\\manipulation\\methods\\appendSlide.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\modules\\manipulation\\methods\\prependSlide.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\modules\\manipulation\\methods\\prependSlide.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\modules\\manipulation\\methods\\removeAllSlides.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\modules\\manipulation\\methods\\removeAllSlides.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\modules\\manipulation\\methods\\removeSlide.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\modules\\manipulation\\methods\\removeSlide.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\modules\\mousewheel\\mousewheel.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\modules\\mousewheel\\mousewheel.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\modules\\mousewheel\\mousewheel.min.css",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\modules\\mousewheel\\mousewheel.min.css"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\modules\\navigation\\navigation.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\modules\\navigation\\navigation.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\modules\\navigation\\navigation.min.css",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\modules\\navigation\\navigation.min.css"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\modules\\pagination\\pagination.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\modules\\pagination\\pagination.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\modules\\pagination\\pagination.min.css",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\modules\\pagination\\pagination.min.css"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\modules\\parallax\\parallax.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\modules\\parallax\\parallax.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\modules\\parallax\\parallax.min.css",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\modules\\parallax\\parallax.min.css"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\modules\\scrollbar\\scrollbar.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\modules\\scrollbar\\scrollbar.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\modules\\scrollbar\\scrollbar.min.css",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\modules\\scrollbar\\scrollbar.min.css"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\modules\\thumbs\\thumbs.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\modules\\thumbs\\thumbs.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\modules\\thumbs\\thumbs.min.css",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\modules\\thumbs\\thumbs.min.css"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\modules\\virtual\\virtual.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\modules\\virtual\\virtual.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\modules\\virtual\\virtual.min.css",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\modules\\virtual\\virtual.min.css"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\modules\\zoom\\zoom.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\modules\\zoom\\zoom.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\modules\\zoom\\zoom.min.css",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\modules\\zoom\\zoom.min.css"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\postinstall.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\postinstall.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\react\\get-changed-params.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\react\\get-changed-params.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\react\\get-children.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\react\\get-children.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\react\\get-params.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\react\\get-params.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\react\\init-swiper.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\react\\init-swiper.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\react\\loop.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\react\\loop.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\react\\params-list.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\react\\params-list.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\react\\swiper-react.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\react\\swiper-react.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\react\\swiper-slide.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\react\\swiper-slide.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\react\\swiper.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\react\\swiper.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\react\\update-swiper.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\react\\update-swiper.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\react\\use-isomorphic-layout-effect.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\react\\use-isomorphic-layout-effect.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\react\\utils.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\react\\utils.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\react\\virtual.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\react\\virtual.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\shared\\classes-to-selector.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\shared\\classes-to-selector.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\shared\\create-element-if-not-defined.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\shared\\create-element-if-not-defined.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\shared\\create-shadow.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\shared\\create-shadow.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\shared\\dom.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\shared\\dom.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\shared\\effect-init.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\shared\\effect-init.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\shared\\effect-target.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\shared\\effect-target.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\shared\\effect-virtual-transition-end.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\shared\\effect-virtual-transition-end.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\shared\\get-browser.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\shared\\get-browser.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\shared\\get-device.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\shared\\get-device.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\shared\\get-support.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\shared\\get-support.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\shared\\utils.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\shared\\utils.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\svelte\\get-changed-params.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\svelte\\get-changed-params.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\svelte\\get-params.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\svelte\\get-params.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\svelte\\init-swiper.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\svelte\\init-swiper.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\svelte\\params-list.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\svelte\\params-list.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\svelte\\swiper-slide.svelte",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\svelte\\swiper-slide.svelte"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\svelte\\swiper-svelte.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\svelte\\swiper-svelte.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\svelte\\swiper.svelte",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\svelte\\swiper.svelte"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\svelte\\update-swiper.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\svelte\\update-swiper.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\svelte\\utils.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\svelte\\utils.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\swiper-bundle.css",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\swiper-bundle.css"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\swiper-bundle.esm.browser.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\swiper-bundle.esm.browser.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\swiper-bundle.esm.browser.min.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\swiper-bundle.esm.browser.min.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\swiper-bundle.esm.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\swiper-bundle.esm.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\swiper-bundle.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\swiper-bundle.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\swiper-bundle.min.css",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\swiper-bundle.min.css"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\swiper-bundle.min.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\swiper-bundle.min.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\swiper.esm.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\swiper.esm.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\swiper.min.css",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\swiper.min.css"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\vue\\get-changed-params.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\vue\\get-changed-params.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\vue\\get-children.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\vue\\get-children.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\vue\\get-params.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\vue\\get-params.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\vue\\init-swiper.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\vue\\init-swiper.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\vue\\loop.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\vue\\loop.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\vue\\params-list.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\vue\\params-list.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\vue\\swiper-slide.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\vue\\swiper-slide.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\vue\\swiper-vue.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\vue\\swiper-vue.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\vue\\swiper.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\vue\\swiper.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\vue\\update-swiper.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\vue\\update-swiper.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\vue\\utils.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\vue\\utils.js"
+    },
+    {
+      "Id": "E:\\dotnet_core\\newproject\\wwwroot\\vendor\\swiper\\vue\\virtual.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\vue\\virtual.js"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.newproject.props",
+      "PackagePath": "build\\newproject.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.newproject.props",
+      "PackagePath": "buildMultiTargeting\\newproject.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.newproject.props",
+      "PackagePath": "buildTransitive\\newproject.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.newproject.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

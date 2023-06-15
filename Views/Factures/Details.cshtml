@@ -1,0 +1,48 @@
+﻿@model TP1.Models.Facture
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Facture</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.superficie)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.superficie)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.cout_total)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.cout_total)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.cout_main)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.cout_main)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.taxe)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.taxe)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.demande)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.demande.address_client)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.Id_facture">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

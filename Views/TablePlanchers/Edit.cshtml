@@ -1,0 +1,44 @@
+﻿@model TP1.Models.TablePlancher
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>TablePlancher</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4 mx-auto">
+        <form asp-action="Edit" style="border-radius: 10px; padding: 20px; margin: 20px 0; border: 1px solid #ccc;">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="type" />
+            <div class="form-group">
+                <label asp-for="cout_matier" class="control-label"></label>
+                <input asp-for="cout_matier" class="form-control" />
+                <span asp-validation-for="cout_matier" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="cout_main" class="control-label"></label>
+                <input asp-for="cout_main" class="form-control" />
+                <span asp-validation-for="cout_main" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="plancher_image" class="control-label"></label>
+                <input asp-for="plancher_image" class="form-control" />
+                <span asp-validation-for="plancher_image" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

@@ -1,0 +1,77 @@
+﻿@model IEnumerable<TP1.Models.Facture>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<section class="intro">
+  <div class="bg-image h-100" style="background-image: url(https://mdbootstrap.com/img/Photos/new-templates/glassmorphism-article/img7.jpg);">
+    <div class="mask d-flex align-items-center h-100">
+      <div class="container">
+        <div class="row justify-content-center">
+          <div class="col-12">
+            <div class="card mask-custom">
+              <div class="card-body">
+                <div class="table-responsive">
+                  <table class="table table-borderless text-white mb-0">
+                    <thead>
+                      <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.superficie)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.cout_total)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.cout_main)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.taxe)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.demande)
+            </th>
+            <th> Actions </th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.superficie)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.cout_total)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.cout_main)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.taxe)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.demande.address_client)
+            </td>
+            <td>
+               @* <a asp-action="Edit" asp-route-id="@item.Id_facture">Edit</a> |*@
+                <a asp-action="Details" asp-route-id="@item.Id_facture">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.Id_facture">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+                  </table>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
